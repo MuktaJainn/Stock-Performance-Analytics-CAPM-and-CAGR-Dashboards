@@ -20,7 +20,7 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 3) **Graphs**:
    * Stock Close Prices: Line chart of the closing prices for all selected stocks.
   
-     <img src="Img/c_3.png" width="800">
+     <img src="Img/c_3.png" width="50%">
 
 4) **Normalized Data**:
     * Line chart of normalized closing prices for better comparison.
