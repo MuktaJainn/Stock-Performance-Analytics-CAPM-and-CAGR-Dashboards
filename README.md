@@ -6,17 +6,17 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 ### CAPM Calculation and Analysis | Python (Pandas, yfinance, streamlit)
 
 1) **User Stock Selection**:
-  * Users can select stocks from a multiselect dropdown list.
-  * Input the desired number of years for historical data analysis.
+   * Users can select stocks from a multiselect dropdown list.
+   * Input the desired number of years for historical data analysis.
 
 2) **Data Visualization**:
-  * A dataframe is created showcasing the daily closing prices of selected stocks.
+   * A dataframe is created showcasing the daily closing prices of selected stocks.
 
 3) **Graphs**:
-  * Stock Close Prices: Line chart of the closing prices for all selected stocks.
+   * Stock Close Prices: Line chart of the closing prices for all selected stocks.
 
 4) **Normalized Data**:
-   * Line chart of normalized closing prices for better comparison.
+    * Line chart of normalized closing prices for better comparison.
 
 5) **Calculations**:
    * Daily returns for each stock.
