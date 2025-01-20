@@ -8,6 +8,7 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 1) **User Stock Selection**:
    * Users can select stocks from a multiselect dropdown list.
    * Input the desired number of years for historical data analysis.
+     
 
 2) **Data Visualization**:
    * A dataframe is created showcasing the daily closing prices of selected stocks.
