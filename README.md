@@ -14,6 +14,7 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 
 2) **Data Visualization**:
    * A dataframe is created showcasing the daily closing prices of selected stocks.
+     
      <img src="Img/c_2.png" width="800">
 
 3) **Graphs**:
