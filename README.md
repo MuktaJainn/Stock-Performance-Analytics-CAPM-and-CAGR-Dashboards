@@ -30,9 +30,9 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 5) **Calculations**:
    * Daily returns for each stock.
    * Beta values for selected stocks.
-   * <img src="Img/c_5.png" width="800">
+     <img src="Img/c_5.png" width="50%">
    * CAPM returns.
-     <img src="Img/c_4.png" width="800">
+     <img src="Img/c_6.png" width="50%">
 
 ### CAGR Calculation and Analysis | Python (Pandas, yfinance, streamlit)
 
