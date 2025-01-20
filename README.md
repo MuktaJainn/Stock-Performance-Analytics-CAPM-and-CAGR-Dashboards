@@ -8,7 +8,7 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 1) **User Stock Selection**:
    * Users can select stocks from a multiselect dropdown list.
    * Input the desired number of years for historical data analysis.
-    <img src="Img/c_1.png" width="600">
+    <img src="Img/c_1.png" width="800">
 
      
 
