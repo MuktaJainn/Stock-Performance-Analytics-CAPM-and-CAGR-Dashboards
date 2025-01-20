@@ -25,7 +25,7 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 4) **Normalized Data**:
     * Line chart of normalized closing prices for better comparison.
   
-      <img src="Img/c_4.png" width="800">
+      <img src="Img/c_4.png" width="50%">
 
 5) **Calculations**:
    * Daily returns for each stock.
