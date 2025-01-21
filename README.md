@@ -91,4 +91,13 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 
 * They needed a tool that could break down complex metrics into simple, actionable insights. That’s where this project came in.
 
+ ## The Analysis
+ 
+**Step 1: Stock Selection**
+* Person A selected two stocks for analysis:
+
+1) WIPRO.NS: A prominent IT company with a history of growth.
+   
+3) SBIN.NS: A leading bank but with mixed performance metrics.
+
 
