@@ -98,6 +98,61 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 
 1) WIPRO.NS: A prominent IT company with a history of growth.
    
-3) SBIN.NS: A leading bank but with mixed performance metrics.
+2) SBIN.NS: A leading bank but with mixed performance metrics.
+
+   
+
+ ** Step 2: Data Visualization**
+- The app displayed:
+
+1) The daily closing prices for both stocks over the last 3 years.
+2) Normalized price trends, making it easier to compare their performance.
+
+<img src="images/normalized_prices_example.png" alt="Normalized Prices" width="600">
+
+**A. CAPM Analysis**
+
+1) WIPRO had a Beta of 1.09 and a CAPM return of 10.99%, indicating it was relatively aligned with market movements but offered high potential returns.
+2) SBIN had a Beta of 1.23 and a CAPM return of 12.40%, suggesting high risk but little reward.
+   
+<img src="images/capm_results_example.png" alt="CAPM Results" width="600">
+
+**B. CAGR Analysis**
+Using 17 years of historical data, the app calculated:
+
+1) WIPRO’s CAGR: A staggering 39.48%, far exceeding the NSEI CAGR (9.19%).
+2) SBIN’s CAGR: A modest 9.29%, just barely beating the market benchmark.
+
+<img src="images/capm_results_example.png" alt="CAPM Results" width="600">
+
+### The Insight
+- Through the analysis:
+
+1) Person A realized that WIPRO.NS offered both high returns and manageable risk, making it a strong long-term investment.
+2) On the other hand, SBIN.NS posed a high risk without sufficient reward, leading Person A to reconsider their investment.
+   
+### The Outcome
+- With the insights gained, Person A downloaded the consolidated CSV and explored the Power BI dashboards for advanced insights:
+
+1) CAPM Risk vs. Return Dashboard: Visualized the tradeoff between risk and reward.
+  <img src="images/capm_results_example.png" alt="CAPM Results" width="600">
+   
+3) CAGR Dashboard: Highlighted long-term growth potential.
+   <img src="images/capm_results_example.png" alt="CAPM Results" width="600">
+  
+5) Combined Dashboard: Provided a holistic view of both metrics.
+   <img src="images/capm_results_example.png" alt="CAPM Results" width="600">
+
+---
+
+## The Impact
+- By leveraging this tool, Person A:
+
+1) Made smarter investment choices by prioritizing high-return stocks with manageable risk.
+2) Avoided potential losses by identifying underperforming high-risk stocks.
+3) Gained confidence in their investment strategy with data-backed insights.
+
+   
+
 
 
