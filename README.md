@@ -1,6 +1,8 @@
 # Stock-Performance-Analytics-CAPM-and-CAGR-Dashboards
 This project demonstrates the calculation and visualization of Capital Asset Pricing Model (CAPM) and Compound Annual Growth Rate (CAGR) for stocks selected by users. The application combines Python, Streamlit, and Power BI to provide an end-to-end data analysis and visualization pipeline. Users can interact with the dashboards to understand stock performance, risk, and return over time.
 
+---
+
 ## Features
 
 ### CAPM Calculation and Analysis | Python (Pandas, yfinance, streamlit)
@@ -38,6 +40,9 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
      
       <img src="Img/c_5.png" width="600">
 
+
+---
+
 ### CAGR Calculation and Analysis | Python (Pandas, yfinance, streamlit)
 
 1) **Long-Term Analysis**:
@@ -49,6 +54,7 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 #### Output:
 * A downloadable CSV containing Beta, CAPM returns, and CAGR values for all selected stocks.
 
+---
   
 ### Data Cleaning and Integration | Excel
 
