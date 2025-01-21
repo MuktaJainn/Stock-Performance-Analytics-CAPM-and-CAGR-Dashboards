@@ -113,6 +113,8 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 <img src="Img/dp_5.png" width="600">
 - We can't conculde anything from the normalized price trends, as wipro released a bonus share [1:1] in Dec, 2024. Bonus is not handled in the CAPM model. So, we'll analyse the CAGR trend, alongwith this.
 
+---
+
 **A. CAPM Analysis**
 
 1) WIPRO had a Beta of 1.09 and a CAPM return of 10.99%, indicating it was relatively aligned with market movements but offered high potential returns.
