@@ -83,4 +83,12 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 
   ## Use Case: Stock Analysis for Person A
 
+  ### The Problem
+#### **Person A had two main challenges:**
+
+1) Understanding Risk vs. Return: How to evaluate whether a high-risk stock was worth the potential reward.
+2) Long-Term Growth: Identifying stocks that outperformed the market in the long run.
+
+* They needed a tool that could break down complex metrics into simple, actionable insights. That’s where this project came in.
+
 
