@@ -8,15 +8,18 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
   - Pandas: For data manipulation, cleaning, and analysis, including processing stock data and calculating metrics like daily returns, Beta, CAPM, and CAGR.
   - YFinance: To fetch historical stock data directly from Yahoo Finance.
   - Streamlit: For building an interactive web application, allowing users to select stocks, visualize data, and calculate CAPM and CAGR metrics.
+    
 * Excel
   - Cleaned and merged exported data (Beta, CAPM returns, and CAGR values) into a consolidated table.
   - Added additional categories for advanced analysis.
+    
 * Power BI
   - Data Integration: Imported cleaned data from Excel and transformed it for analysis.
   - Dashboard Creation: Built interactive dashboards to visualize:
-     1) CAPM Risk vs. Return analysis.
-     2) CAGR analysis.
-     3) Combined analysis.
+    
+    * CAPM Risk vs. Return analysis.
+    * CAGR analysis.
+    * Combined analysis.
 
 
 ## Features
