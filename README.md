@@ -137,19 +137,20 @@ Using 17 years of historical data, the app calculated:
 2) On the other hand, SBIN.NS posed a high risk without sufficient reward, leading Person A to reconsider their investment.
    
 ### The Outcome
+
 - With the insights gained, Person A downloaded the consolidated CSV and explored the Power BI dashboards for advanced insights:
 
 1) CAPM Risk vs. Return Dashboard: Visualized the tradeoff between risk and reward.
    
   <img src="Img/dp_!.png" width="600">
    
-3) CAGR Dashboard: Highlighted long-term growth potential.
+2) CAGR Dashboard: Highlighted long-term growth potential.
    
-   <img src="Img/dp_2.png" width="600">
+  <img src="Img/dp_2.png" width="600">
   
-5) Combined Dashboard: Provided a holistic view of both metrics.
+3) Combined Dashboard: Provided a holistic view of both metrics.
    
-   <img src="Img/dp_3.png" width="600">
+  <img src="Img/dp_3.png" width="600">
 
 ---
 
