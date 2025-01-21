@@ -28,7 +28,8 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
       <img src="Img/c_4.png" width="50%">
 
 5) **Calculations**:
-   * Daily returns for each stock.  
+   * Daily returns for each stock.
+     
    * Beta values for selected stocks.
      
       <img src="Img/c_6.png" width="600">  
