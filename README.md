@@ -117,7 +117,7 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 
 #### **A. CAPM Analysis**
 
-1) WIPRO had a Beta of 1.09 and a CAPM return of 11.98%, indicating it was relatively aligned with market movements but offered high potential returns.
+1) WIPRO had a Beta of 1.09 and a CAPM return of 11.58%, indicating it was relatively aligned with market movements but offered high potential returns.
 2) SBIN had a Beta of 1.23 and a CAPM return of 12.99%, suggesting high risk but little reward.
    
 <img src="Img/dp_6.png" width="600">
@@ -141,17 +141,13 @@ Using 17 years of historical data, the app calculated:
 - With the insights gained, Person A downloaded the consolidated CSV and explored the Power BI dashboards for advanced insights:
 
 1) CAPM Risk vs. Return Dashboard: Visualized the tradeoff between risk and reward.
-   
-  <img src="Img/dp_!.png" width="600">
+  
    
 2) CAGR Dashboard: Highlighted long-term growth potential.
    
-  <img src="Img/dp_2.png" width="600">
   
 3) Combined Dashboard: Provided a holistic view of both metrics.
    
-  <img src="Img/dp_3.png" width="600">
-
 ---
 
 ## The Impact
