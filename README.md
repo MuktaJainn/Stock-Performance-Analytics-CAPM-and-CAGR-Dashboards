@@ -81,3 +81,6 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
      <img src="Img/d_3.png" width="50%">
 
 
+  ## Use Case: Stock Analysis for Person A
+
+
