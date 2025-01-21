@@ -117,8 +117,8 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 
 **A. CAPM Analysis**
 
-1) WIPRO had a Beta of 1.09 and a CAPM return of 10.99%, indicating it was relatively aligned with market movements but offered high potential returns.
-2) SBIN had a Beta of 1.23 and a CAPM return of 12.40%, suggesting high risk but little reward.
+1) WIPRO had a Beta of 1.09 and a CAPM return of 11.598%, indicating it was relatively aligned with market movements but offered high potential returns.
+2) SBIN had a Beta of 1.23 and a CAPM return of 12.99%, suggesting high risk but little reward.
    
 <img src="Img/dp_6.png" width="600">
 
