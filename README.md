@@ -102,7 +102,7 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 
    
 
- ** Step 2: Data Visualization**
+ **Step 2: Data Visualization**
 - The app displayed:
 
 1) The daily closing prices for both stocks over the last 3 years.
@@ -111,13 +111,14 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 2) Normalized price trends, making it easier to compare their performance.
 
 <img src="Img/dp_5.png" width="600">
+- We can't conculde anything from the normalized price trends, as wipro released a bonus share [1:1] in Dec, 2024. Bonus is not handled in the CAPM model. So, we'll analyse the CAGR trend, alongwith this.
 
 **A. CAPM Analysis**
 
 1) WIPRO had a Beta of 1.09 and a CAPM return of 10.99%, indicating it was relatively aligned with market movements but offered high potential returns.
 2) SBIN had a Beta of 1.23 and a CAPM return of 12.40%, suggesting high risk but little reward.
    
-<img src="images/capm_results_example.png" alt="CAPM Results" width="600">
+<img src="Img/dp_6.png" width="600">
 
 **B. CAGR Analysis**
 Using 17 years of historical data, the app calculated:
@@ -125,7 +126,7 @@ Using 17 years of historical data, the app calculated:
 1) WIPRO’s CAGR: A staggering 39.48%, far exceeding the NSEI CAGR (9.19%).
 2) SBIN’s CAGR: A modest 9.29%, just barely beating the market benchmark.
 
-<img src="images/capm_results_example.png" alt="CAPM Results" width="600">
+<img src="Img/dp_7.png" width="600">
 
 ### The Insight
 - Through the analysis:
@@ -137,13 +138,13 @@ Using 17 years of historical data, the app calculated:
 - With the insights gained, Person A downloaded the consolidated CSV and explored the Power BI dashboards for advanced insights:
 
 1) CAPM Risk vs. Return Dashboard: Visualized the tradeoff between risk and reward.
-  <img src="images/capm_results_example.png" alt="CAPM Results" width="600">
+  <img src="Img/dp_!.png" width="600">
    
 3) CAGR Dashboard: Highlighted long-term growth potential.
-   <img src="images/capm_results_example.png" alt="CAPM Results" width="600">
+   <img src="Img/dp_2.png" width="600">
   
 5) Combined Dashboard: Provided a holistic view of both metrics.
-   <img src="images/capm_results_example.png" alt="CAPM Results" width="600">
+   <img src="Img/dp_3.png" width="600">
 
 ---
 
