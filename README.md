@@ -61,6 +61,8 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 * The exported CSV was cleaned and merged in **Excel** to consolidate all tables.
 * Added a Category column based on the beta values for enhanced analysis.
 
+  ---
+
 ### Dashboards-Analysis | PowerBI
 
 1) **CAPM - Risk vs. Return Analysis**:
