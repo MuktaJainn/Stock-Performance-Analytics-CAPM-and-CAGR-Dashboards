@@ -1,4 +1,4 @@
-# Stock-Performance-Analytics-CAPM-and-CAGR-Dashboards
+![image](https://github.com/user-attachments/assets/ee744370-af67-4e3c-8c09-484a56608933)# Stock-Performance-Analytics-CAPM-and-CAGR-Dashboards
 This project demonstrates the calculation and visualization of Capital Asset Pricing Model (CAPM) and Compound Annual Growth Rate (CAGR) for stocks selected by users. The application combines Python, Streamlit, and Power BI to provide an end-to-end data analysis and visualization pipeline. Users can interact with the dashboards to understand stock performance, risk, and return over time.
 
 ## Features
@@ -59,11 +59,17 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 
 1) **CAPM - Risk vs. Return Analysis**:
    * Visualizing the tradeoff between risk and return for selected stocks.
+  
+     <img src="Img/d_1.png" width="50%">
 
 2) **CAGR Analysis**:
    * Insights into the long-term performance of selected stocks.
+  
+     <img src="Img/d_2.png" width="50%">
 
 3) **Combined Analysis**:
    * A comprehensive view of both CAPM and CAGR metrics.
+  
+     <img src="Img/d_3.png" width="50%">
 
 
