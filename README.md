@@ -106,9 +106,11 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 - The app displayed:
 
 1) The daily closing prices for both stocks over the last 3 years.
+
+<img src="img/dp_4" width="600">
 2) Normalized price trends, making it easier to compare their performance.
 
-<img src="images/normalized_prices_example.png" alt="Normalized Prices" width="600">
+<img src="img/dp_5" width="600">
 
 **A. CAPM Analysis**
 
