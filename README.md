@@ -125,8 +125,8 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 **B. CAGR Analysis**
 Using 17 years of historical data, the app calculated:
 
-1) WIPRO’s CAGR: A staggering 39.48%, far exceeding the NSEI CAGR (9.19%).
-2) SBIN’s CAGR: A modest 9.29%, just barely beating the market benchmark.
+1) WIPRO’s CAGR: A staggering 40.01%, far exceeding the NSEI CAGR (9.22%).
+2) SBIN’s CAGR: A modest 9.42%, just barely beating the market benchmark.
 
 <img src="Img/dp_7.png" width="600">
 
