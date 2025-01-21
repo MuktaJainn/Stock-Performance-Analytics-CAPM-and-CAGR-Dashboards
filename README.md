@@ -43,6 +43,8 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
 1) **Long-Term Analysis**:
    * CAGR calculated using 17 years of historical data.
    * Adjustments for stock bonuses and splits.
+  
+     <img src="Img/c_7.png" width="50%">
 
 #### Output:
 * A downloadable CSV containing Beta, CAPM returns, and CAGR values for all selected stocks.
