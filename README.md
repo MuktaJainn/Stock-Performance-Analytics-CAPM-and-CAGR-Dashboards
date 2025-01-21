@@ -94,7 +94,7 @@ This project demonstrates the calculation and visualization of Capital Asset Pri
  ## The Analysis
  
 **Step 1: Stock Selection**
-* Person A selected two stocks for analysis:
+- Person A selected two stocks for analysis:
 
 1) WIPRO.NS: A prominent IT company with a history of growth.
    
